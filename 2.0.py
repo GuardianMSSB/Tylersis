@@ -10,7 +10,7 @@ time.sleep(1)
 student = browser.find_element_by_id("mat-tab-label-0-2")
 student.click()
 
-num = str(5200).zfill(4)
+num = str(0000).zfill(4)
 name = input("enter username here: ")
 year = input("enter grad year here: ")
 
